@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sms App</string>
+    <string name="refresh">refresh</string>
+    <string name="Compose">compose</string>
+    <string name="send">send</string>
+    <string name="enter_message">enter</string>
+    <string name="enter_phone_number">phone</string>
+    <string name="enter_phone">enter phone number</string>
+    <string name="enter">enter message</string>
+</resources>
